@@ -196,7 +196,7 @@
           ]
         ]
       }
-    }
+    },
 { "type": "Feature", "properties": { "STATE": "NY", "COUNTY": "Kings", "CITY": "New York City-Brooklyn", "NAME": "Williamsburg", "REGIONID": 199001.000000 }, "geometry": { "type": "Polygon",         "coordinates": [
           [
             [
